@@ -1,4 +1,4 @@
-﻿{
+{
   "sandMine": {
     "english": "Sand Mine",
 		"german": "Sandmine",
@@ -7,6 +7,7 @@
     "chinese": "沙子矿",
     "spanish": "Mina de Arena",
     "italian": "Miniera di Sabbia",
+	"dutch": "Zand Mijn",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -16,6 +17,7 @@
     "chinese": "硫磺矿",
     "spanish": "Mina de Azufre",
     "italian": "Miniera di Zolfo",
+	"dutch": "Zwavel Mijn",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -25,6 +27,7 @@
     "chinese": "铁矿",
     "spanish": "Mina de Hierro",
     "italian": "Miniera di Ferro",
+	"dutch": "IJzer Mijn",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -34,6 +37,7 @@
     "chinese": "铜矿",
     "spanish": "Mina de Cobre",
     "italian": "Miniera di Rame",
+	"dutch": "Koper Mijn",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -43,6 +47,7 @@
     "chinese": "铝矿",
     "spanish": "Mina de Aluminio",
     "italian": "Miniera di Alluminio",
+	"dutch": "Aluminum Mijn",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -52,6 +57,7 @@
     "chinese": "铀矿",
     "spanish": "Mina de Uranio",
     "italian": "Miniera di Uranio",
+	"dutch": "Uranium Mijn",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -61,6 +67,7 @@
     "chinese": "铱矿",
     "spanish": "Mina de Iridio",
     "italian": "Miniera di Iridio",
+	"dutch": "Iridium Mijn",
   },
 
 
@@ -72,6 +79,7 @@
     "chinese": "大型沙子矿",
     "spanish": "Gran Mina de Arena",
     "italian": "Grande Miniera di Sabbia",
+	"dutch": "Grote Zand Mijn",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -81,6 +89,7 @@
     "chinese": "大型硫磺矿",
     "spanish": "Gran Mina de Azufre",
     "italian": "Grande Miniera di Zolfo",
+	"dutch": "Grote Zwavel Mijn",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -90,6 +99,7 @@
     "chinese": "大型铁矿",
     "spanish": "Gran Mina de Hierro",
     "italian": "Grande Miniera di Ferro",
+	"dutch": "Grote IJzer Mijn",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -99,6 +109,7 @@
     "chinese": "大型铜矿",
     "spanish": "Gran Mina de Hierro",
     "italian": "Grande Miniera di Rame",
+	"dutch": "Grote Koper Mijn",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -108,6 +119,7 @@
     "chinese": "大型铝矿",
     "spanish": "Gran Mina de Aluminio",
     "italian": "Grande Miniera di Alluminio",
+	"dutch": "Grote Aluminium Mijn",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -117,6 +129,7 @@
     "chinese": "大型铀矿",
     "spanish": "Gran Mina de Uranio",
     "italian": "Grande Miniera di Uranio",
+	"dutch": "Grote Uranium Mijn",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -126,6 +139,7 @@
     "chinese": "大型铱矿",
     "spanish": "Gran Mina de Iridio",
     "italian": "Grande Miniera di Iridio",
+	"dutch": "Grote Iridium Mijn",
   },
 
 
@@ -137,6 +151,7 @@
     "chinese": "电子厂",
     "spanish": "Fábrica de Electrónicos",
     "italian": "Fabbrica di Componenti Elettronici",
+	"dutch": "Elektronica Fabriek",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -146,6 +161,7 @@
     "chinese": "微芯片厂",
     "spanish": "Fábrica de Microchips",
     "italian": "Fabbrica di Microhips",
+	"dutch": "Microchip Fabriek",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -155,6 +171,7 @@
     "chinese": "神经处理器厂",
     "spanish": "Fábrica de Procesadores Neuronales",
     "italian": "Fabbrica di Processori Neurali",
+	"dutch": "Neutrale Processor Fabriek",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -164,6 +181,7 @@
     "chinese": "发动机厂",
     "spanish": "Fábrica de Motores",
     "italian": "Fabbrica di Motori",
+	"dutch": "Motor Fabriek",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -173,6 +191,7 @@
     "chinese": "纳米管厂",
     "spanish": "Fábrica de Nanotubos",
     "italian": "Fabbrica di Nanotubi",
+	"dutch": "Nanobuisjes Fabriek",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -182,6 +201,7 @@
     "chinese": "铱合金厂",
     "spanish": "Fábrica de Aleaciones de Iridio",
     "italian": "Fabbrica di Lega di Iridio",
+	"dutch": "Iridium Legering Fabriek",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -191,6 +211,7 @@
     "chinese": "全息显示屏厂",
     "spanish": "Fábrica de Holo-Pantallas",
     "italian": "Fabbrica di Holo-Schermi",
+	"dutch": "Holo-Scherm Fabriek",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -200,6 +221,7 @@
     "chinese": "辐射核心厂",
     "spanish": "Fábrica de Núcleos de Radiación",
     "italian": "Fabbrica di Nuclei di Radiazione",
+	"dutch": "Stralingskern Fabriek",
   },
 
 
@@ -211,6 +233,7 @@
     "chinese": "混凝土厂",
     "spanish": "Fábrica de Concreto",
     "italian": "Fabbrica di Cemento",
+	"dutch": "Cement Fabriek",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -220,6 +243,7 @@
     "chinese": "钢材厂",
     "spanish": "Molino de Acero",
     "italian": "Acciaieria",
+	"dutch": "Staal Fabriek",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -229,6 +253,7 @@
     "chinese": "家电厂",
     "spanish": "Fábrica de Electrodomésticos",
     "italian": "Fabbrica di Elettrodomestici",
+	"dutch": "Huishoudelijke Apparaten Fabriek",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -238,6 +263,7 @@
     "chinese": "计算机厂",
     "spanish": "Fábrica de Computadoras",
     "italian": "Fabbrica di Computer",
+	"dutch": "Computer Fabriek",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -247,6 +273,7 @@
     "chinese": "家用机器人厂",
     "spanish": "Fábrica de Robots Domésticos",
     "italian": "Fabbrica di Robot Domestici",
+	"dutch": "Huishoudelijke Robot Fabriek"
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -256,6 +283,7 @@
     "chinese": "工业机器人厂",
     "spanish": "Fábrica de Robots Industriales",
     "italian": "Fabbrica di Robot Industriali",
+	"dutch": "Industriële Robot Fabriek",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -265,6 +293,7 @@
     "chinese": "高级科技工作坊",
     "spanish": "Taller de Alta Tecnología",
     "italian": "Laboratorio di Alta Tecnologia",
+	"dutch": "High Tech Werkplaats",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -274,6 +303,7 @@
     "chinese": "VR娱乐设备厂",
     "spanish": "Fábrica de Entretenimiento Educativo VR",
     "italian": "Fabbrica di Intrattenimento Educativo VR",
+	"dutch": "VR Endutainment Fabriek",
   },
   "ftlPropellantFactory": {
     "english": "FTL Propellant Factory",
@@ -283,6 +313,7 @@
     "chinese": "FTL推进剂厂",
     "spanish": "Fábrica de Propulsores FTL",
     "italian": "Fabbrica di Carburante FTL",
+	"dutch": "FTL Brandstof Fabriek",
   },
   "ftlControlUnitFactory": {
     "english": "FTL Control Unit Factory",
@@ -292,6 +323,7 @@
     "chinese": "FTL控制单元厂",
     "spanish": "Fábrica de Unidades de Control FTL",
     "italian": "Fabbrica di Unità di Controllo FTL",
+	"dutch": "FTL Stuurmodule Fabriek",
   },
 
 
@@ -303,6 +335,7 @@
     "chinese": "蓝色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Azules",
     "italian": "Fabbrica di Moduli Scientifici Blu",
+	"dutch": "Blauwe Wetenschap-pakket Fabriek",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -312,6 +345,7 @@
     "chinese": "绿色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Verdes",
     "italian": "Fabbrica di Moduli Scientifici Verdi",
+	"dutch": "Groene Wetenschap-pakket Fabriek",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -321,6 +355,7 @@
     "chinese": "黄色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Amarillos",
     "italian": "Fabbrica di Moduli Scientifici Gialli",
+	"dutch": "Gele Wetenschap-pakket Fabriek",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -330,6 +365,7 @@
     "chinese": "红色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Rojos",
     "italian": "Fabbrica di Moduli Scientifici Rossi",
+	"dutch": "Rode Wetenschap-pakket fabriek",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -339,6 +375,7 @@
     "chinese": "研究实验室",
     "spanish": "Laboratorio de Investigación",
     "italian": "Laboratorio di Ricerca",
+	"dutch": "Onderzoeks Laboratorium",
   },
 
 
@@ -350,6 +387,7 @@
     "chinese": "仓库",
     "spanish": "Depósito",
     "italian": "Deposito",
+	"dutch": "Warenhuis",
   },
   "spacePort": {
     "english": "Space Port",
@@ -359,6 +397,7 @@
     "chinese": "航天港",
     "spanish": "Puerto Espacial",
     "italian": "Spazioporto",
+	"dutch": "Ruimtehaven",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -368,6 +407,7 @@
     "chinese": "回收中心",
     "spanish": "Centro de Reciclaje",
     "italian": "Centro di Riciclaggio",
+	"dutch": "Recycling Centrum",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -377,6 +417,7 @@
     "chinese": "土壤富集设施",
     "spanish": "Instalación de Enriquecimiento de Suelos",
     "italian": "Stazione di Arricchimento del Suolo",
+	"dutch": "Bodem Bevruchtings Station",
   },
 
 
@@ -388,6 +429,7 @@
     "chinese": "空气处理器",
     "spanish": "Procesador Atmosférico",
     "italian": "Trasformatore Atmosferico",
+	"dutch": "Atmosfeer Verwerking",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -397,6 +439,7 @@
     "chinese": "氧气处理器",
     "spanish": "Procesador de Oxígeno",
     "italian": "Trasformatore d'Ossigeno",
+	"dutch": "Lucht Verwerking",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -406,6 +449,7 @@
     "chinese": "碳素处理器",
     "spanish": "Procesador de Carbono",
     "italian": "Trasformatore di Carbonio",
+	"dutch": "Koolstof Verwerker",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -415,6 +459,7 @@
     "chinese": "简易农场",
     "spanish": "Granja Básica",
     "italian": "Fattoria Semplice",
+	"dutch": "Eenvoudige Boerderij",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -424,6 +469,7 @@
     "chinese": "化肥厂",
     "spanish": "Fábrica de Fertilizante",
     "italian": "Fabbrica di Fertilizzante",
+	"dutch": "Kunstmest Fabriek",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -433,6 +479,7 @@
     "chinese": "蔬菜农场",
     "spanish": "Granja de Vegetales",
     "italian": "Fattoria di Verdure",
+	"dutch": "Groenten Boerderij",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -442,6 +489,7 @@
     "chinese": "肉类实验室",
     "spanish": "Laboratorio de Carne",
     "italian": "Laboratorio delle Carni",
+	"dutch": "Vleeslab",	  
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -451,6 +499,7 @@
     "chinese": "食品厂",
     "spanish": "Fábrica de Comida",
     "italian": "Fabbrica di Pietanze",
+	"dutch": "Voedsel Fabriek",
   },
 
 
@@ -462,6 +511,7 @@
     "chinese": "基本居住点",
     "spanish": "Hábitat Básico",
     "italian": "Habitat di Base",
+	"dutch": "",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -518,6 +568,7 @@
     "chinese": "公园",
     "spanish": "Parque",
     "italian": "Parco",
+	"dutch": "Park",
   },
   "arena": {
     "english": "Stadium",
@@ -527,6 +578,7 @@
     "chinese": "体育馆",
     "spanish": "Estadio",
     "italian": "Stadio",
+	"dutch": "Stadium",
   },
   "school": {
     "english": "School",
@@ -536,6 +588,7 @@
     "chinese": "学校",
     "spanish": "Escuela",
     "italian": "Scuola",
+	"dutch": "School",
   },
 
 	"powerPole": {
@@ -546,6 +599,7 @@
     "chinese": "电杆",
     "spanish": "Poste de Energía",
     "italian": "Palo della Luce",
+	"dutch": "Hoogspanningsmast",
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
@@ -555,6 +609,7 @@
     "chinese": "变电站",
     "spanish": "Subestación de Energía",
     "italian": "Sottostazione Elettrica",
+	"dutch": "Stroomverdeling Station",
 	},
 	"windTurbine": {
 		"english": "Wind Turbine",
@@ -564,6 +619,7 @@
     "chinese": "风力涡轮机",
     "spanish": "Turbina Eólica",
     "italian": "Turbina Eolica",
+	"dutch": "Windmolen",
 	},
 	"solarPowerPlant": {
 		"english": "Solar Power Plant",
@@ -573,6 +629,7 @@
     "chinese": "太阳能发电机",
     "spanish": "Planta de Energía Solar",
     "italian": "Centrale Elettrica ad Energia Solare",
+	"dutch": "Zonnepanelen",
 	},
 	"nuclearPowerPlant": {
 		"english": "Nuclear Power Plant",
@@ -582,6 +639,7 @@
     "chinese": "核电站",
     "spanish": "Planta de Energía Nuclear",
     "italian": "Centrale Elettrica Nucleare",
+	"dutch": "Kernreactor",
 	},
 	"fastNeutronReactor": {
 		"english": "Fast Neutron Reactor",
@@ -591,5 +649,6 @@
     "chinese": "快中子反应堆",
     "spanish": "Reactor de Neutrones Rápidos",
     "italian": "Reattore a Neutroni Veloci",
+	"dutch": "Snelle Neutron Reactor",
 	},
 }
